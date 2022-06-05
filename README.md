@@ -1,8 +1,9 @@
-# Libft
-42's Libft project | My own C static library with recoded standard functions from 'libc' + extra functions
+# 📚 Libft
+My own C static library with recoded standard functions from 'libc' + extra functions
 
 <br/>
-Libft is a project from <a href="https://42.fr/en/homepage/" target="_blank">École 42</a> that requieres us to re-create some standard C library functions and extra functions that may be used in future projects.
+<h2>📌 About
+<h3>This repo contains my solution to <a href="https://42.fr/en/homepage/" target="_blank">École 42</a>'s Libft project. The aim of this project is to create our own library by recoding functions from C standard library and some extra functions that might be used in future projects.
 
 > Applied Knowledge: Data structure | Algorithm development | Pointers | Memory alocation
 
