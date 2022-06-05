@@ -2,10 +2,10 @@
 My own C static library with recoded standard functions from 'libc' + extra functions
 
 <br/>
-<h2>📌 About
-<h3>This repo contains my solution to <a href="https://42.fr/en/homepage/" target="_blank">École 42</a>'s Libft project. The aim of this project is to create our own library by recoding functions from C standard library and some extra functions that might be used in future projects.
+<h2>📌 About</h2>
+This repo contains my solution to <a href="https://42.fr/en/homepage/" target="_blank">École 42</a>'s Libft project. The aim of this project is to create our own library by recoding functions from C standard library and some extra functions that might be used in future projects.
 
-> Applied Knowledge: Data structure | Algorithm development | Pointers | Memory alocation
+> Applied knowledge: Data structure | Algorithm development | Pointers | Memory alocation
 
 <br/>
 
